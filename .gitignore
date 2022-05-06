@@ -1,0 +1,17 @@
+# Build and Release Folders
+__pycache__/
+media/
+.idea/
+.vscode
+database/
+
+# Other files and folders
+.settings/
+*.out
+
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
+*.sqlite3
